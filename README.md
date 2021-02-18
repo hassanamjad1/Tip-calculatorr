@@ -30,7 +30,7 @@ Text Field shows the words "Enter Here.." which disappear when clicked by user.
 Here's a walkthrough of implemented user stories:
 
 https://media.giphy.com/media/HYA249X5iz4IDFuu1a/giphy.gif
-
+<img src="https://media.giphy.com/media/HYA249X5iz4IDFuu1a/giphy.gif" width=250><br>
 
 
 ## Notes
